@@ -1,0 +1,8 @@
+jax[tpu]
+torch==2.1.2+cpu
+datasets
+transformers
+sentencepiece
+matplotlib
+seaborn
+wandb
